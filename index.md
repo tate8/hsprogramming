@@ -2,6 +2,14 @@
 
 ### Projects
 
+## SurvivalGame
+An OOP survival game made in PyProcessing spring 2021
+
+![SurvivalGame](https://github.com/tate8/hsprogramming/blob/gh-pages/images/survial_game_sc.png?raw=true)
+
+
+Source code for project [here](https://github.com/tate8/hsprogramming/tree/gh-pages/src/survival_game)
+
 ## SpaceGame
 An OOP spaceship shooting game made in Processing winter 2020
 
