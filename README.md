@@ -5,7 +5,8 @@
 ## AI Flashcards
 An educational AI-powered flashcards web app made in Spring 2022
 
-https://user-images.githubusercontent.com/70344865/157375281-10eefae6-e8fd-4c9b-abc8-e4d7a958380b.mp4
+<img width="1512" alt="AICards" src="https://user-images.githubusercontent.com/70344865/169616085-7a539361-5f5d-4e5c-96ed-0664bb375ca1.png">
+
 
 Source code for project [here](https://github.com/tate8/AI-flashcards/edit/main/README.md)
 
