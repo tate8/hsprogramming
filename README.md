@@ -2,6 +2,14 @@
 
 ### Projects
 
+## AI Flashcards
+An educational AI-powered flashcards web app made in Spring 2022
+
+https://user-images.githubusercontent.com/70344865/157375281-10eefae6-e8fd-4c9b-abc8-e4d7a958380b.mp4
+
+Source code for project [here](https://github.com/tate8/AI-flashcards/edit/main/README.md)
+
+
 ## SurvivalGame
 An OOP survival game made in PyProcessing spring 2021
 
@@ -48,15 +56,3 @@ A miles to km conversion app made in Processing winter 2020
 
 
 Source code for project [here](https://github.com/tate8/hsprogramming/tree/gh-pages/src/ConversionCalculator)
-
-
-
-
-## Question Generator
-A question generator application that stores your answers into a text file made in repl.it (c++) in spring 2021
-
-![File](https://github.com/tate8/hsprogramming/blob/gh-pages/images/file_practice_sc.png?raw=true)
-
-
-Source code for project [here](https://github.com/tate8/hsprogramming/tree/gh-pages/src/QuestionGenerator)
-
